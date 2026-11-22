@@ -17,7 +17,7 @@
 
 ## Run on Windows / VS Code
 1. Install Node.js LTS.
-2. Extract this ZIP and open the `BookNest_Library_Project` folder in VS Code.
+2. Clone this repository and open its folder (the one containing `package.json`) in VS Code.
 3. Open Terminal > New Terminal.
 4. Run `npm install`
 5. Run `npm start`
