@@ -1,0 +1,8 @@
+node_modules/
+booknest.db
+booknest.db-shm
+booknest.db-wal
+.env
+.env.*
+!.env.example
+npm-debug.log*
